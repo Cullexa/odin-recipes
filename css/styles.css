@@ -2,3 +2,12 @@ body {
 	background-color: #dfcab9;
 	font-family: "Times New Roman", "Arial", "sans serif";
 }
+
+h1 {
+	text-align: center;
+}
+
+.main-menu {
+	display: flex;
+	justify-content: space-evenly;
+}
